@@ -9,3 +9,4 @@ st.text_area(
 
 
 st.text_input("Post Title")
+st.button("Publish Post")
